@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'aaarghnormal';
+    src: url('../../Fonts/Aaargh-webfont.eot');
+    src: url('../../Fonts/Aaargh-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/Aaargh-webfont.woff2') format('woff2'),
+         url('../../Fonts/Aaargh-webfont.woff') format('woff'),
+         url('../../Fonts/Aaargh-webfont.ttf') format('truetype'),
+         url('../../Fonts/Aaargh-webfont.svg#aaarghnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.first {
+    height: 100vh;
+    background: url('../../Images/wallpaper2.jpg');
+}
+
+.second {
+    height: 100vh;
+}
+
+.img {
+    margin-left: 30rem;
+}
+
+.title {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+.title p {
+    font-family: 'aaarghnormal', Arial ,sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #fff;
+}
+
+.cont {
+    font-family: 'aaarghnormal', Arial ,sans-serif;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
